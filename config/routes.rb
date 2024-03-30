@@ -6,5 +6,9 @@ root 'one#home'
 
   get 'tab', to:'two#tab'
 
+  get 'sid', to:'two#sid'
+
+  get 'sangamam', to:'one#sangamam'
+
   
 end
